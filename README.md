@@ -13,3 +13,9 @@ Access to the journal article:
 Datasets can be found here: https://drive.google.com/drive/folders/13j488oaUwk_lufg9w9dvtExxw4wmOGVx 
 
 ## Instructions to run the code:
+
+1. Download the repository and install the required packages:
+```
+pip3 install -r requirements.txt
+```
+2. 
