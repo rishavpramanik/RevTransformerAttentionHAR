@@ -1,11 +1,11 @@
 # RevTransformerAttentionHAR
-"**Transformer-based deep reverse attention network for multi-sensory human activity recognition**" - published in Engineering Applications of Artificial Intelligence, Elsevier.
+"**Transformer-based deep reverse attention network for multi-sensory human activity recognition**" - accepted in Engineering Applications of Artificial Intelligence, Elsevier.
 
-Access to the journal article:
+Access to the journal article: Link coming soon
 
-Preprint(Arxiv): 
 
 ## Datasets Used:
+The original credits for the dataset foes to the authors of the following repository: [https://github.com/RanaMostafaAbdElMohsen/Human_Activity_Recognition_using_Wearable_Sensors_Review_Challenges_Evaluation_Benchmark](https://github.com/RanaMostafaAbdElMohsen/Human_Activity_Recognition_using_Wearable_Sensors_Review_Challenges_Evaluation_Benchmark)
 1. MHEALTH
 2. USC-HAD
 3. WHARF
