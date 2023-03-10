@@ -1,7 +1,9 @@
 # RevTransformerAttentionHAR
-"Transformer-based deep reverse attention network for multi-sensory human activity recognition" - published in Engineering Applications of Artificial Intelligence, Elsevier.
+"**Transformer-based deep reverse attention network for multi-sensory human activity recognition**" - published in Engineering Applications of Artificial Intelligence, Elsevier.
 
 Access to the journal article:
+
+Preprint(Arxiv): 
 
 ## Datasets Used:
 1. MHEALTH
@@ -18,4 +20,13 @@ Datasets can be found here: https://drive.google.com/drive/folders/13j488oaUwk_l
 ```
 pip3 install -r requirements.txt
 ```
-2. 
+2. The main.py file is sufficient for running the experiments. Run the code on terminal as follows:
+```
+python3 main.py --data_directory "data"
+```
+Available arguments:
+- `--epochs`: Number of epochs of training. Default = 150
+- `--folds`: Number of Folds of training. Default = 10
+- `--batch_size`: Batch size for training. Default = 192
+- `--learning_rate`: Initial Learning Rate. Default = 0.001
+3. Edit the above parameters as per your requirement before running the code.
