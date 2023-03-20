@@ -2,6 +2,19 @@
 "**Transformer-based deep reverse attention network for multi-sensory human activity recognition**" - published in Engineering Applications of Artificial Intelligence, Elsevier.
 
 Access to the journal article: [Click Here](https://www.sciencedirect.com/science/article/pii/S0952197623003342)
+```
+@article{pramanik2023transformer,
+title = {Transformer-based deep reverse attention network for multi-sensory human activity recognition},
+author={Pramanik, Rishav and Sikdar, Ritodeep and Sarkar, Ram},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {122},
+pages = {106150},
+year = {2023},
+issn = {0952-1976},
+doi = {10.1016/j.engappai.2023.106150},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197623003342}
+}
+```
 
 
 ## Datasets Used:
