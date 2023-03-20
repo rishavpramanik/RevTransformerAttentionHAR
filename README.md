@@ -1,7 +1,7 @@
 # RevTransformerAttentionHAR
 "**Transformer-based deep reverse attention network for multi-sensory human activity recognition**" - accepted in Engineering Applications of Artificial Intelligence, Elsevier.
 
-Access to the journal article: Link coming soon
+Access to the journal article: [Click Here](https://www.sciencedirect.com/science/article/pii/S0952197623003342)
 
 
 ## Datasets Used:
