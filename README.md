@@ -18,7 +18,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S0952197623003342}
 
 
 ## Datasets Used:
-The original credits for the dataset foes to the authors of the following repository: [https://github.com/RanaMostafaAbdElMohsen/Human_Activity_Recognition_using_Wearable_Sensors_Review_Challenges_Evaluation_Benchmark](https://github.com/RanaMostafaAbdElMohsen/Human_Activity_Recognition_using_Wearable_Sensors_Review_Challenges_Evaluation_Benchmark)
+The original credits for the dataset goes to the authors of the following repository: [https://github.com/RanaMostafaAbdElMohsen/Human_Activity_Recognition_using_Wearable_Sensors_Review_Challenges_Evaluation_Benchmark](https://github.com/RanaMostafaAbdElMohsen/Human_Activity_Recognition_using_Wearable_Sensors_Review_Challenges_Evaluation_Benchmark)
 1. MHEALTH
 2. USC-HAD
 3. WHARF
